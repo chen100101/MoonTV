@@ -97,3 +97,5 @@
         api: 'https://cjhwba.com/api.php/provide/vod',
         name: '华为吧资源',
     },
+  }
+}
